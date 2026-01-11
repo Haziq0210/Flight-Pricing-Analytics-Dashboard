@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This Power BI dashboard provides comprehensive analytics for flight booking data, enabling data-driven decision-making for revenue optimization, route planning, and competitive positioning. 
-
-The project follows a robust data preparation workflow: raw flight booking data undergoes comprehensive quality assessment using Python, where outliers are identified through statistical analysis, missing values are detected and handled appropriately, and data consistency is validated. This rigorous pre-processing phase ensures only clean, verified data is loaded into Power BI, establishing a reliable foundation for business intelligence. The dashboard transforms this validated dataset into actionable insights through interactive visualizations and strategic metrics across four specialized pages, delivering accurate, trustworthy analytics for stakeholders.
+This Power BI dashboard provides comprehensive analytics for flight booking data, enabling data-driven decision-making for revenue optimization, route planning, and competitive positioning. The project follows a robust data preparation workflow: raw flight booking data undergoes comprehensive quality assessment using Python, where outliers are identified through statistical analysis, missing values are detected and handled appropriately, and data consistency is validated. This rigorous pre-processing phase ensures only clean, verified data is loaded into Power BI, establishing a reliable foundation for business intelligence. The dashboard transforms this validated dataset into actionable insights through interactive visualizations and strategic metrics across four specialized pages, delivering accurate, trustworthy analytics for stakeholders.
 
 ## Business Objective
 
